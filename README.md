@@ -1,4 +1,4 @@
-# ced-html.github.io
+# [ced-html.github.io](https://ced-html.github.io/)
 Chinese-English dictionary CEDICT (https://www.mdbg.net) in html
 
 There is: rare search flexibility, the ability to voice content (select -> voice), create notes and others. Since this is a regular html file, no installation steps are required, just open it in your browser. Opening speed and search time directly depend on the speed of the hardware and browser version.
